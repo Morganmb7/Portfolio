@@ -1,1 +1,5 @@
-hello
+/* this is my style sheet */
+body {
+    background-color: #e2cead;
+    font-family: Arial, sans-serif;
+}
